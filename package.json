@@ -1,7 +1,7 @@
 {
   "name": "tdd_chalenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "Aplicação simples, com JS e Jest para prática do TDD.",
   "main": "index.js",
   "scripts": {
     "test": "jest",
